@@ -1,0 +1,3 @@
+/mnt/e/snapp/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/snapp/build/CMakeFiles/edit_cache.dir
+/mnt/e/snapp/build/CMakeFiles/app.dir

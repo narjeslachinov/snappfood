@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/snapp/src/snappfood.cpp
+iostream
+-
+string
+-
+cstring
+-
+vector
+-
+bits/stdc++.h
+-
+iostream
+-
+climits
+-
+
